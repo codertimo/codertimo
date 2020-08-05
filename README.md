@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hello friend👋, I'm Junseong :)
 
-<!--
-**codertimo/codertimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I’m currently working on 🔭 
 
-Here are some ideas to get you started:
+- Developing human-like artificial intelligence (Open-Domain Dialog System) whose name is [Luda](https://luda.ai/)
+- Trying hard to reduce the Learning Machine Learning(LML) loss 😂
+- Repeat writing and deleting codes for better coding skill.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I’m currently learning 🌱
+
+- Open-Domain Question Answering Domain
+- Dense Embedding based Large Scale Retrieval
+- Text Generation
+
+### How to reach me 📫
+
+- Email: [codertimo@gmail.com](mailto:codertimo@gmail.com)
+- Linkdin: https://www.linkedin.com/in/codertimo/
+- Facebook: https://fb.com/codertimo
+
