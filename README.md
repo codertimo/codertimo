@@ -13,6 +13,7 @@
 ### How to reach me 📫
 
 - Email: [codertimo@gmail.com](mailto:codertimo@gmail.com)
-- Linkdin: https://www.linkedin.com/in/codertimo/
-- Facebook: https://fb.com/codertimo
+- CV: https://codertimo.github.io/cv/junseong_cv.pdf
 - Blog: https://codertimo.github.io/
+- Facebook: https://fb.com/codertimo
+- Linkdin: https://www.linkedin.com/in/codertimo/
