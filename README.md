@@ -10,8 +10,8 @@ Doing **EVERYTHING** for exponential startup(ScatterLab) growth 🚀.
 - CEO Staff / Strategy Manager @ ScatterLab (AI Startup in Korea) for +1.5 years.
 - ex) ML Engineer @ ScatterLab for 2 years
 - ex) ML Researcher @ ScatterLab for 3 years
-- ex) ML Engineer Intern @ Naver
-- ex) ML Engineer (Full Time) @ Atlas Labs (AI Startup in Korea)
+- ex) ML Engineer Intern @ Naver for 3 month
+- ex) ML Engineer (Full Time) @ Atlas Labs (AI Startup in Korea) for 1 year
 
 ### When I was ML Researcher / Engineer... 🔭 
 
