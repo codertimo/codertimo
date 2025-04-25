@@ -1,22 +1,27 @@
-### I’m currently working on 🔭 
+### Who are you?
 
-- Developing open-domain dialog system whose name is [Luda](https://luda.ai/)
-- Building Korean MRC(Machine Reading Comprehesion) Dataset at [KLUE](https://klue-benchmark.com/) 
-- Trying hard to reduce the Learning Machine Learning(LML) loss 😂
-- Coding everyday for better research engineering skill
+Doing **EVERYTHING** for exponential startup(ScatterLab) growth 🚀.
 
-### I’m currently learning 🌱
+> Building BM, Managing metrics, Recruting, IR, PR, HR etc..
 
-- Theoretical Machine Learning from the basic
-- Tensorflow 2.x
-- Research Environment in Cloud (GCP, AWS etc)
-- GO language study
-- Asset Investing (Portfolio, Risk Management, Macro-Finance etc)
+
+### Career
+
+- CEO Staff / Strategy Manager @ ScatterLab (AI Startup in Korea) for +1.5 years.
+- ex) ML Engineer @ ScatterLab for 2 years
+- ex) ML Researcher @ ScatterLab for 3 years
+- ex) ML Engineer Intern @ Naver
+- ex) ML Engineer (Full Time) @ Atlas Labs (AI Startup in Korea)
+
+### When I was ML Researcher / Engineer... 🔭 
+
+- Developed [codertimo/BERT-pytorch](https://github.com/codertimo/BERT-pytorch) which is the first public BERT paper implementation and got 6k stars 🌟.
+- Developed friendly chatbot [Luda](https://luda.ai/), the most famous chatbot in Korea (+2M users / +2B chats) in ScatterLab.
+- Built Korean MRC(Machine Reading Comprehesion) Dataset at [KLUE](https://klue-benchmark.com/) 
+- Lots of product oriented ML projects in ScatterLab
 
 ### How to reach me 📫
 
 - Email: [codertimo@gmail.com](mailto:codertimo@gmail.com)
-- CV: https://junseong.oopy.io/introduction
-- Blog: https://junseong.oopy.io/
-- Facebook: https://fb.com/codertimo
 - Linkdin: https://www.linkedin.com/in/codertimo/
+
