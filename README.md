@@ -15,8 +15,8 @@ Doing **EVERYTHING** for exponential startup(ScatterLab) growth 🚀.
 
 ### When I was ML Researcher / Engineer... 🔭 
 
-- Developed 6k stars 🌟 [codertimo/BERT-pytorch](https://github.com/codertimo/BERT-pytorch). The first public BERT paper implementation and got 
-- Developed friendly chatbot [Luda](https://luda.ai/), the most famous chatbot in Korea (+2M users / +2B chats) in ScatterLab.
+- Developed 6k stars 🌟 [codertimo/BERT-pytorch](https://github.com/codertimo/BERT-pytorch). The first public BERT paper implementation.
+- Developed friendly AI chatbot [Luda](https://luda.ai/). The most famous chatbot in Korea (+2M users / +2B chats) in ScatterLab.
 - Built Korean MRC(Machine Reading Comprehesion) Dataset at [KLUE](https://klue-benchmark.com/) 
 - Lots of product oriented ML projects in ScatterLab
 
